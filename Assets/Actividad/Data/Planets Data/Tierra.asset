@@ -15,7 +15,7 @@ MonoBehaviour:
   rollingRotationalSpeed: 45
   rollingRotationMultiplier: 1.5
   rollingSpeed: 4
-  rollingAcceleration: 4
+  rollingAcceleration: 10
   rollingFriction: 2.5
-  objectMass: 3.5
+  objectMass: 1
   objectRadius: 0.7

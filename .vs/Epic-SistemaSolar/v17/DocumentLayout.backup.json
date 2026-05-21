@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Proyectos Epic\\Epic-SistemaSolar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollinginteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollinginteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|f:\\proyectos epic\\epic-sistemasolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RollActionManager.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:45:26.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RollingInteractable.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:45:15.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RollableObject.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T20:44:25.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

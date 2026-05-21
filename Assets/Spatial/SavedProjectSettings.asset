@@ -43,7 +43,7 @@ MonoBehaviour:
     ignore: 0
   - layer1: 6
     layer2: 29
-    ignore: 0
+    ignore: 1
   - layer1: 6
     layer2: 30
     ignore: 0
