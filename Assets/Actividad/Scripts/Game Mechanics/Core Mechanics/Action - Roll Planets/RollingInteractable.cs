@@ -9,6 +9,8 @@ public class RollingInteractable : MonoBehaviour
     [SerializeField] private PedestalInteraction pedestal;
     [SerializeField] private bool isActive;
 
+    [Header("Audio")]
+    public AudioClip voiceClip;
     public void StartRolling()
     {
         if (isActive == false)
@@ -24,6 +26,12 @@ public class RollingInteractable : MonoBehaviour
     public void ToggleActive(bool isActive)
     {
         this.isActive = isActive;
+        if (isActive == true)
+        {
+            Debug.Log("play");
+            AudioManager.instance.PlayAudio(voiceClip);
+        }
+        
     }
 
 }

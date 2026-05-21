@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "F:\\Proyectos Epic\\Epic-SistemaSolar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\secondary mechanics\\object - pedestal\\pedestalinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\secondary mechanics\\object - pedestal\\pedestalinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|f:\\proyectos epic\\epic-sistemasolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollinginteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollinginteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollinginteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollinginteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\level \u0026 quest scripting\\dialogue - monk\\monologue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\level \u0026 quest scripting\\dialogue - monk\\monologue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|f:\\proyectos epic\\epic-sistemasolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\action - roll planets\\rollableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\rule - change active gap\\changeactivegap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\rule - change active gap\\changeactivegap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\object - gap\\gapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\object - gap\\gapobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|F:\\Proyectos Epic\\Epic-SistemaSolar\\assets\\actividad\\scripts\\game mechanics\\core mechanics\\object - gap\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466B9B72-B421-671B-A711-EA2178927E45}|AssemblySistemaSolar.csproj|solutionrelative:assets\\actividad\\scripts\\game mechanics\\core mechanics\\object - gap\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +43,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PedestalInteraction.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Secondary Mechanics\\Object - Pedestal\\PedestalInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Secondary Mechanics\\Object - Pedestal\\PedestalInteraction.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Secondary Mechanics\\Object - Pedestal\\PedestalInteraction.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Secondary Mechanics\\Object - Pedestal\\PedestalInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T23:12:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\AudioManager.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:49:59.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GapObject.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\GapObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\GapObject.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\GapObject.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Object - Gap\\GapObject.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwBEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:44:49.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeActiveGap.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Rule - Change Active Gap\\ChangeActiveGap.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Rule - Change Active Gap\\ChangeActiveGap.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Rule - Change Active Gap\\ChangeActiveGap.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Rule - Change Active Gap\\ChangeActiveGap.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T22:44:24.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Monologue.cs",
+              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Level \u0026 Quest Scripting\\Dialogue - Monk\\Monologue.cs",
+              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Level \u0026 Quest Scripting\\Dialogue - Monk\\Monologue.cs",
+              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Level \u0026 Quest Scripting\\Dialogue - Monk\\Monologue.cs",
+              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Level \u0026 Quest Scripting\\Dialogue - Monk\\Monologue.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T21:59:34.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RollActionManager.cs",
               "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
               "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
               "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
               "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollActionManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T20:45:26.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T20:45:26.063Z"
             },
             {
               "$type": "Document",
@@ -45,22 +121,9 @@
               "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
               "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
               "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollingInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T20:45:15.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RollableObject.cs",
-              "DocumentMoniker": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
-              "ToolTip": "F:\\Proyectos Epic\\Epic-SistemaSolar\\Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
-              "RelativeToolTip": "Assets\\Actividad\\Scripts\\Game Mechanics\\Core Mechanics\\Action - Roll Planets\\RollableObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T20:44:25.669Z",
               "EditorCaption": ""
             }
           ]
